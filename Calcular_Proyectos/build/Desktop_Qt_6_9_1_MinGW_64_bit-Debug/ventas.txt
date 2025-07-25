@@ -1,0 +1,10 @@
+----- Factura -----
+2025-07-22 20:16:07
+Pan dulce x10 - Total: $0.5
+TOTAL FACTURA: $0.5
+
+----- Factura -----
+2025-07-22 20:17:35
+Pan integral x10 - Total: $3
+TOTAL FACTURA: $3
+
