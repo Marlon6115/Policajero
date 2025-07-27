@@ -8,7 +8,7 @@
 #include <QVector>
 #include <QString>
 
-// Estructura para representar un producto
+
 struct Producto {
     QString nombre;
     float precio;
@@ -34,7 +34,7 @@ private slots:
 private:
     Ui::MainWindow *ui;
 
-    QVector<Producto> inventario; // ← Aquí declaras el inventario
+    QVector<Producto> inventario;
 
     void cargarInventario();
     Producto buscarProductoPorNombre(const QString &nombre);
