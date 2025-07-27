@@ -1,0 +1,9 @@
+# ninja log v6
+29	2208	7753482614211394	Btn_autogen/timestamp	b5032e7b1d7edeb6
+29	2208	7753482614211394	Btn_autogen/mocs_compilation.cpp	b5032e7b1d7edeb6
+29	2208	7753482614211394	C:/Users/aleja/OneDrive/Escritorio/Policajero/Policajero/Btn/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Btn_autogen/timestamp	b5032e7b1d7edeb6
+29	2208	7753482614211394	C:/Users/aleja/OneDrive/Escritorio/Policajero/Policajero/Btn/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Btn_autogen/mocs_compilation.cpp	b5032e7b1d7edeb6
+2224	10539	7753482617011422	CMakeFiles/Btn.dir/Btn_autogen/mocs_compilation.cpp.obj	9eb8d972de551330
+2234	10693	7753482617111420	CMakeFiles/Btn.dir/main.cpp.obj	4ef15d76965f8445
+2244	10942	7753482617211422	CMakeFiles/Btn.dir/mainwindow.cpp.obj	fb18ce9c65dc7ce9
+10942	11784	7753482704196184	Btn.exe	2cd2c22593b4ecf9
